@@ -1,0 +1,2 @@
+My Web Development Journey
+Welcome to my Git repository, a reflection of my journey in web development. This repository showcases my growth from a beginner to an intermediate web developer, with a focus on building robust and scalable web applications. You'll find a collection of projects that demonstrate my skills in HTML, CSS, JavaScript, and various frameworks such as React and Angular. Through this repository, I aim to share my experiences, challenges, and successes, providing a valuable resource for fellow developers and those interested in web development.
